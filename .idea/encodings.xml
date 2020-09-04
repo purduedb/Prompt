@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-shuffle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-shuffle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/sketch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/sketch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/tags" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/tags/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/unsafe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/unsafe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/flume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/flume-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/flume-sink" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/java8-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/kafka-0-10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/kafka-0-10-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/kafka-0-10-sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/kafka-0-10-sql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/kafka-0-8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external/kafka-0-8-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/graphx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/graphx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/launcher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/launcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mllib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mllib-local" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mllib/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prompt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prompt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prompt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/catalyst" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/catalyst/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/hive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sql/hive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools" charset="UTF-8" />
+  </component>
+</project>
